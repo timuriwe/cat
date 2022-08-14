@@ -1,7 +1,5 @@
 # Cat utility
 
-![cat](img/cat.jpg)
-
 ## __Description of project:__
 __In this project I developed my own implementation of cat text utility for Unix systems.__
 
